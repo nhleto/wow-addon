@@ -1,0 +1,16 @@
+## Interface: 11507
+## Title: |cff00ff00PvP Awareness|r
+## Notes: Stealth detection, enemy cooldown tracking, DR tracking, and combat radar for PvP
+## Author: fun-time
+## Version: 1.0.0
+## SavedVariables: PvPAwarenessDB
+
+Core.lua
+SpellData.lua
+StealthAlert.lua
+CooldownTracker.lua
+DRTracker.lua
+CombatRadar.lua
+TargetScan.lua
+QuestNavigator.lua
+StateEncoder.lua
